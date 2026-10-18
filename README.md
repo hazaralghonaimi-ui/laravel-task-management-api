@@ -1,5 +1,4 @@
-# laravel-task-mangement-api
-A laravel 13 Task Management REST API built as a practical learning project 
+
 # Laravel Task Management API
 
 A Task Management REST API built with Laravel 13 as a practical learning project.
